@@ -1,4 +1,4 @@
-# Composant Slider React - Lisez-moi
+# Composant Slider React 
 
 Ce projet présente un exemple de composant d'image slider simple implémenté avec React. Le slider permet aux utilisateurs de naviguer à travers un ensemble d'images et comprend des boutons de navigation ainsi que des points de pagination.
 
