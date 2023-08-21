@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Slider-React/static/css/main.20e60483.css",
+    "main.js": "/Slider-React/static/js/main.9c16838e.js",
+    "index.html": "/Slider-React/index.html",
+    "static/media/left-arrow.svg": "/Slider-React/static/media/left-arrow.da21225bcf530088451874c9e21c215a.svg",
+    "static/media/right-arrow.svg": "/Slider-React/static/media/right-arrow.d19ce8f87764b5901ed2ca6f0ff22d03.svg",
+    "main.20e60483.css.map": "/Slider-React/static/css/main.20e60483.css.map",
+    "main.9c16838e.js.map": "/Slider-React/static/js/main.9c16838e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20e60483.css",
+    "static/js/main.9c16838e.js"
+  ]
+}
