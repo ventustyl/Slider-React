@@ -2,7 +2,7 @@
   "name": "composants",
   "version": "0.1.0",
   "private": true,
-  "homepage": " https://ventustyl_githubgithub.io/Slider-React/",
+  "homepage": " https://ventustyl.github.io/Slider-React/",
   "dependencies": {
     "@testing-library/jest-dom": "^6.0.1",
     "@testing-library/react": "^14.0.0",
